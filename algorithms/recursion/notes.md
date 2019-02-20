@@ -14,6 +14,20 @@ Recursive functions have two paths. One is the recursive case that is call the f
 2. Identify the recursive case
 3. Get closer and closer and return when needed. Usually you have 2 returns
 
+-
+
+New Rule: Everytime you are using a tree or converting something into a tree, consider recursion.
+
+1. Divided into a number of subproblems that are smaller instances of the same problem.
+2. Each instance of the subproblem is identical in nature.
+3. The solutions of each subproblem can be sombined to solve the problem at hand.
+
+-
+
+Real-world examples of recursion -> https://stackoverflow.com/questions/105838/real-world-examples-of-recursion
+
+-
+
 Sample Function:
 
 let counter = 0 ;
