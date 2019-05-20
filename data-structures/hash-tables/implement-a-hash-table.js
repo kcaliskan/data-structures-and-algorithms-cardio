@@ -33,6 +33,8 @@ class HashTable {
         }
       }
     }
+
+    return undefined;
   }
 }
 
