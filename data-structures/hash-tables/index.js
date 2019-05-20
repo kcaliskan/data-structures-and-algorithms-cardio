@@ -6,3 +6,4 @@
 // insert(1), lookup(1), delete(1), search(1)
 
 // Hash Collisions
+// When you have a collision, it slows down reading and wirint with a hash table. It becomes O(n).
