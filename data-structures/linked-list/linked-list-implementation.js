@@ -139,6 +139,14 @@ class LinkedList {
     return this.printList();
   }
 
+  remove(index) {
+    let prevNode = this.traverseToIndex(index);
+    let nextNode = prevNode.next;
+    prevNode.next = nextNode.next;
+    this.length--;
+    return this.printList();
+  }
+
   traverseToIndex(index) {
     let currentNode = this.head;
     let counter = 0;
@@ -159,4 +167,5 @@ myLinkedList.prepend(3);
 myLinkedList.prepend(7);
 myLinkedList.insert(3, 9);
 myLinkedList.insert(1, 77);
-myLinkedList.printList();
+myLinkedList.remove(1);
+myLinkedList.remove(2);
