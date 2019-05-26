@@ -169,3 +169,4 @@ myLinkedList.insert(3, 9);
 myLinkedList.insert(1, 77);
 myLinkedList.remove(1);
 myLinkedList.remove(2);
+myLinkedList.remove(4);
