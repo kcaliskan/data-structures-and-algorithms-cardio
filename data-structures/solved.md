@@ -4,9 +4,11 @@
 
 1. Even or Odd [Codewars](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe)
 2. Multiply [Codewars](https://www.codewars.com/kata/50654ddff44f800200000004)
-   **Hash Tables**
+3. Sum of positive [Codewars](https://www.codewars.com/kata/5715eaedb436cf5606000381)
 
-3. Jewels and Stones [Leetcode](https://leetcode.com/problems/jewels-and-stones/)
+**Hash Tables**
+
+1. Jewels and Stones [Leetcode](https://leetcode.com/problems/jewels-and-stones/)
 
 **Array**
 
