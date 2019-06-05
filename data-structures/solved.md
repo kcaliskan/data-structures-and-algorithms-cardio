@@ -5,6 +5,7 @@
 1. Even or Odd [Codewars](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe)
 2. Multiply [Codewars](https://www.codewars.com/kata/50654ddff44f800200000004)
 3. Sum of positive [Codewars](https://www.codewars.com/kata/5715eaedb436cf5606000381)
+4. Opposite number [Codewars](https://www.codewars.com/kata/56dec885c54a926dcd001095)
 
 **Hash Tables**
 
