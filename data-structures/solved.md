@@ -9,6 +9,7 @@
 5. Remove First and Last Character [Codewars](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
 6. String repeat [Codewars](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e)
 7. Mumbling [Codewars](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039)
+8. Multiples of 3 and 5 [Project Euler](https://projecteuler.net/problem=1)
 
 **Hash Tables**
 
